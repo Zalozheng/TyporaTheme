@@ -2,7 +2,7 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(zrkjaaut698@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(buqaxfezy486@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>502 Bad Gateway</title>\n\t<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n\t<style>\n\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n\n<h1>502 Bad Gateway</h1>\n<p>The site is unavailable now, cause: Failed to read origin site.</p>\n\n<address>Connection: 132.196.83.35 (Client) -&gt; (Server)</address>\n<address>Request ID: 177757952212991000001.</address>\n\n</body>\n</html>')
 
 [qlgq.top]
 
